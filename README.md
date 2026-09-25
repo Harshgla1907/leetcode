@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Harshgla1907/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
