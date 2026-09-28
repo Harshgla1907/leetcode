@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Harshgla1907/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
@@ -32,4 +33,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
