@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
