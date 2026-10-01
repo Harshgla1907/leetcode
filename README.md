@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
 ## Database
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
