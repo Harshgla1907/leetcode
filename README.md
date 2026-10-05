@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshgla1907/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Harshgla1907/leetcode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshgla1907/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Sorting
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshgla1907/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshgla1907/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
