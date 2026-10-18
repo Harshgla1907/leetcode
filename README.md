@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Harshgla1907/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Harshgla1907/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Harshgla1907/leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Hash Table
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshgla1907/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harshgla1907/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harshgla1907/leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/Harshgla1907/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 ## Sorting
