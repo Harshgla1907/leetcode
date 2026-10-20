@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshgla1907/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Harshgla1907/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -112,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshgla1907/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Harshgla1907/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0234-palindrome-linked-list](https://github.com/Harshgla1907/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshgla1907/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0234-palindrome-linked-list](https://github.com/Harshgla1907/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshgla1907/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Harshgla1907/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
