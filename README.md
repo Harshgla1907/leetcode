@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshgla1907/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Harshgla1907/leetcode/tree/master/0118-pascals-triangle) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshgla1907/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshgla1907/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Harshgla1907/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
