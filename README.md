@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harshgla1907/leetcode/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshgla1907/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
