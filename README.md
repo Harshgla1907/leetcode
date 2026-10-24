@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshgla1907/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0441-arranging-coins](https://github.com/Harshgla1907/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
+| [0441-arranging-coins](https://github.com/Harshgla1907/leetcode/tree/master/0441-arranging-coins) |
 ## Matrix
 |  |
 | ------- |
