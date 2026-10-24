@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Harshgla1907/leetcode/tree/master/0441-arranging-coins) |
+| [2409-count-days-spent-together](https://github.com/Harshgla1907/leetcode/tree/master/2409-count-days-spent-together) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Harshgla1907/leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harshgla1907/leetcode/tree/master/0067-add-binary) |
+| [2409-count-days-spent-together](https://github.com/Harshgla1907/leetcode/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
