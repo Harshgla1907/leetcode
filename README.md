@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
+| [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Harshgla1907/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Harshgla1907/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Harshgla1907/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -151,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Harshgla1907/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Harshgla1907/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Harshgla1907/leetcode/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Harshgla1907/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Harshgla1907/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Harshgla1907/leetcode/tree/master/0112-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harshgla1907/leetcode/tree/master/0045-jump-game-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
