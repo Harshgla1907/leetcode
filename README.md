@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshgla1907/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshgla1907/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Harshgla1907/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harshgla1907/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshgla1907/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harshgla1907/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/Harshgla1907/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Harshgla1907/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
 |  |
 | ------- |
