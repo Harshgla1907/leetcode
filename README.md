@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Harshgla1907/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Harshgla1907/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Harshgla1907/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Harshgla1907/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/Harshgla1907/leetcode/tree/master/0704-binary-search) |
 | [1254-number-of-closed-islands](https://github.com/Harshgla1907/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshgla1907/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Harshgla1907/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Harshgla1907/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Harshgla1907/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harshgla1907/leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/Harshgla1907/leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshgla1907/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Bit Manipulation
 |  |
